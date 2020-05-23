@@ -8,3 +8,5 @@ Just run the following command:
 ```
 docker-compose run mycroft
 ```
+
+(Works on linux machines only)
